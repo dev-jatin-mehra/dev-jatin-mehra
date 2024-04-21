@@ -1,5 +1,8 @@
+[![MasterHead](https://media1.tenor.com/m/4Spqr1waLjIAAAAd/coding-humor.gif)]
 <h1 align="center">I'm,mmm🤔 Jatin Singh Mehra</h1>
 <h3 align="center">An another Machine Learning Guy from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-jatin-mehra&label=Profile%20views&color=0e75b6&style=flat" alt="dev-jatin-mehra" /> </p>
 
