@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.tenor.com/m/4Spqr1waLjIAAAAd/coding-humor.gif)]
+[![MasterHead](https://media1.tenor.com/m/4Spqr1waLjIAAAAd/coding-humor.gif)](https://rishavchanda.io)
 <h1 align="center">I'm,mmm🤔 Jatin Singh Mehra</h1>
 <h3 align="center">An another Machine Learning Guy from India</h3>
 
