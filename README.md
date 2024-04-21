@@ -2,7 +2,7 @@
 <h3 align="center">An another Machine Learning Guy from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-jatin-mehra&label=Profile%20views&color=0e75b6&style=flat" alt="dev-jatin-mehra" /> </p>
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on Regression , Clustering<br>👯 I’m looking to collaborate on ML and Data Analysis<br>🤝 I’m looking for help with MLops<br>🌱 I’m currently learning Flask , SQL , Seaborn<br>💬 Ask me about Pandas , Scikit-learn , Classification ,<br>📫 How to reach me: dev.jatin.singh@gmail.com
 
 
