@@ -1,5 +1,5 @@
 <h1 align="center">I'm,mmm🤔 Jatin Singh Mehra</h1>
-<h3 align="center">An another Machine Learning Guy from India</h3>
+<h3 align="center">An another ML and DS Guy from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 
 ## ✨ About Me:
