@@ -26,5 +26,3 @@
 [![](https://visitcount.itsvg.in/api?id=dev-jatin-mehra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
