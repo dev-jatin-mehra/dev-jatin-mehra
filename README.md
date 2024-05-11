@@ -19,7 +19,6 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dev-jatin-mehra&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-jatin-mehra&theme=yeblu&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jatin-mehra&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
