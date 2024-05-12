@@ -1,9 +1,9 @@
-<h1 align="center">I'm,mmm🤔 Jatin Singh Mehra</h1>
-<h3 align="center">An another ML and DS Guy from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
+<h1 align="center">I'm🤔 Jatin Singh Mehra</h1>
+<h3 align="center">A passionate Data Science Learner From India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif"><br>
 
 ## ✨ About Me:
-🔭 I’m currently working on Regression, Data Analysis, Mathematics<br>👯 I’m looking to collaborate on ML and Data Analysis<br>🤝 I’m looking for help with MLops<br>🌱 I’m currently learning Flask , SQL , Matplotlib<br>💬 Ask me about Pandas , Visualization , Classification ,<br>📫 How to reach me: dev.jatin.singh@gmail.com
+🔭 I’m currently working on Regression, MySQL, Mathematics<br>👯 I’m looking to collaborate on ML and MLops<br>🤝 I’m looking for help with MLops<br>🌱 I’m currently learning Flask , SQL<br>💬 Ask me about Data Wrangling , Visualization , Classification ,<br>📫 How to reach me: dev.jatin.singh@gmail.com
 
 
 ## 🌐 Socials:
@@ -17,14 +17,8 @@
 <hr>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dev-jatin-mehra&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jatin-mehra&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dev-jatin-mehra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 [![](https://visitcount.itsvg.in/api?id=dev-jatin-mehra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
