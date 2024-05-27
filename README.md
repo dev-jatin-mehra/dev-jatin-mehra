@@ -1,5 +1,5 @@
 <h1 align="center">I'm🤔 Jatin Singh Mehra</h1>
-<h3 align="center">A passionate Data Science Learner From India</h3>
+<h3 align="center">A passionate Data Science Learner/Practitioner From India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif"><br>
 
 ## ✨ About Me:
