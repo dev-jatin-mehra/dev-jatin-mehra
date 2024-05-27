@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif"><br>
 
 ## ✨ About Me:
-🔭 I’m currently working on Regression, MySQL, Mathematics<br>👯 I’m looking to collaborate on ML and MLops<br>🤝 I’m looking for help with MLops<br>🌱 I’m currently learning Flask , SQL<br>💬 Ask me about Data Wrangling , Visualization , Classification ,<br>📫 How to reach me: dev.jatin.singh@gmail.com
+🔭 I’m currently working on .... <br>👯 I’m looking to collaborate on ML , DL and MLops<br>🤝 I’m looking for help with MLops<br>🌱 I’m currently learning Calculus & Statistics , MySql<br>💬 Ask me about Data Wrangling , Visualization , Classification/Regression<br>📫 How to reach me: dev.jatin.singh@gmail.com
 
 
 ## 🌐 Socials:
