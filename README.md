@@ -21,7 +21,7 @@ $ cat tech-stack.txt
 Languages     →  JavaScript / TypeScript, C++
 Frontend      →  React, GSAP, Streamlit
 Backend       →  Express, Microservices, NGINX
-AI            →  Ollama, Copilot
+AI            →  ML, RAG, Ollama, Copilot
 Databases     →  PostgreSQL, MongoDB
 DevOps        →  Docker, GitHub Actions, Vercel, AWS (S3 · IAM · EC2)
 Tooling       →  Git, GitHub
