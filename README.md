@@ -66,7 +66,8 @@ $ echo $STATUS
 <sub>readme crafted without 47 badges, 3 animated snakes, or a contributions graph with custom themes.</sub>
 <p align="center">
   <a href="https://claude.ai">
-    <img src="https://claude.ai/favicon.ico" width="12" height="12" alt="Claude">
     <sub> Made with Claude</sub>
+    <img src="https://claude.ai/favicon.ico" width="12" height="12" alt="Claude">
+    
   </a>
 </p>
