@@ -51,7 +51,7 @@ $ cat ./connect.sh
 ```bash
 echo "GitHub   →  github.com/dev-jatin-mehra"
 echo "LinkedIn →  linkedin.com/in/jatin-singh-mehra"
-echo "Site     →  [ pending deployment... watch this space ]"
+echo "Site     →  jatinmehra.tech"
 ```
 
 ---
