@@ -37,9 +37,9 @@ $ ls -la ~/projects/
 Microservices-based assessment and testing platform built for indigenous organizations.  
 Full architecture — isolated services, scalable, designed for real-world deployment.
 
-**`/LinkVault`** `[active]`  
+**`/LinkVault`** `[done]`  
 A "simple" link management app that grew into a full production stack.  
-React · Express · PostgreSQL · Supabase · Caching · Rate Limiting · CI/CD · Containers.  
+React · Express · PostgreSQL · Supabase · Monitoring · CI/CD · Containers.  
 The kind of project you start to learn one thing and end up learning everything.
 
 ---
