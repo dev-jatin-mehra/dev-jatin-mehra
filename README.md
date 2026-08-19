@@ -18,11 +18,10 @@ $ cat tech-stack.txt
 ```
 
 ```
-Languages     →  JavaScript / TypeScript, C++
+Languages     →  TypeScript, C++
 Frontend      →  React, GSAP, Streamlit
 Backend       →  Express, Microservices, NGINX
-AI            →  ML, RAG, Ollama, Copilot
-Databases     →  PostgreSQL, MongoDB
+Databases     →  Supabase, MongoDB
 DevOps        →  Docker, GitHub Actions, Vercel, AWS (S3 · IAM · EC2)
 Tooling       →  Git, GitHub
 ```
@@ -33,14 +32,13 @@ Tooling       →  Git, GitHub
 $ ls -la ~/projects/
 ```
 
-**`/CodeAlpha`** `[active]`  
+**`/CodeAlpha`**
 Microservices-based assessment and testing platform built for indigenous organizations.  
 Full architecture — isolated services, scalable, designed for real-world deployment.
 
-**`/LinkVault`** `[done]`  
+**`/LinkVault`** 
 A "simple" link management app that grew into a full production stack.  
 React · Express · PostgreSQL · Supabase · Monitoring · CI/CD · Containers.  
-The kind of project you start to learn one thing and end up learning everything.
 
 ---
 
